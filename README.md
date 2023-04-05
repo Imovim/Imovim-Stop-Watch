@@ -4,4 +4,4 @@
 
 <h6>Acompanhe o nosso projeto em:</h6>
 
-<h6>https://github.com/BRun0442/Imovim</h6>
+<h6>https://github.com/Imovim/Frontend</h6>
